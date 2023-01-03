@@ -1,0 +1,8 @@
+com/georgyi/customer/Customer$CustomerBuilder.class
+com/georgyi/customer/Customer.class
+com/georgyi/customer/CustomerService.class
+com/georgyi/customer/CustomerRegistrationRequest.class
+com/georgyi/customer/CustomerConfig.class
+com/georgyi/customer/CustomerApplication.class
+com/georgyi/customer/CustomerController.class
+com/georgyi/customer/CustomerRepository.class

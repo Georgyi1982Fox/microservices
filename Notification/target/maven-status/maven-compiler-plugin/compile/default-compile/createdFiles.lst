@@ -1,0 +1,8 @@
+com/georgyi/notification/NotificationRepository.class
+com/georgyi/notification/NotificationApplication.class
+com/georgyi/notification/NotificationController.class
+com/georgyi/notification/rabbitmq/NotificationConsumer.class
+com/georgyi/notification/NotificationConfig.class
+com/georgyi/notification/Notification$NotificationBuilder.class
+com/georgyi/notification/NotificationService.class
+com/georgyi/notification/Notification.class

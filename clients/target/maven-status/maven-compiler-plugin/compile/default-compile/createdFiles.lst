@@ -1,0 +1,4 @@
+com/georgyi/clients/fraud/NotificationRequest.class
+com/georgyi/clients/fraud/NotificationClient.class
+com/georgyi/clients/fraud/FraudClient.class
+com/georgyi/clients/fraud/FraudCheckResponse.class

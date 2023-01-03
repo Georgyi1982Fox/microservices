@@ -1,0 +1,6 @@
+com/georgyi/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class
+com/georgyi/fraud/FraudApplication.class
+com/georgyi/fraud/FraudController.class
+com/georgyi/fraud/FraudCheckHistory.class
+com/georgyi/fraud/FraudCheckService.class
+com/georgyi/fraud/FraudCheckHistoryRepository.class
